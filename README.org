@@ -1,0 +1,10 @@
+* Yam
+Yet another music recommandation system
+
+** Description
+Implement this system using python.
+
+** Plan
+1. collect data(kaggle data)
+2. implement the algorithm
+3. front-end
